@@ -1,0 +1,206 @@
+{
+  "countries": {
+    "Turkey": {
+      "cities": {
+        "Istanbul": {"temperature": 14, "humidity": 73, "rainfall": 800, "region_type": "coastal", "altitude": 40},
+        "Ankara": {"temperature": 12, "humidity": 62, "rainfall": 400, "region_type": "continental", "altitude": 938},
+        "Izmir": {"temperature": 17, "humidity": 70, "rainfall": 700, "region_type": "coastal", "altitude": 5},
+        "Antalya": {"temperature": 18, "humidity": 65, "rainfall": 1000, "region_type": "coastal", "altitude": 30},
+        "Konya": {"temperature": 11, "humidity": 55, "rainfall": 300, "region_type": "continental", "altitude": 1027},
+        "Adana": {"temperature": 19, "humidity": 68, "rainfall": 650, "region_type": "mediterranean", "altitude": 23},
+        "Trabzon": {"temperature": 14, "humidity": 78, "rainfall": 1200, "region_type": "black_sea", "altitude": 10},
+        "Erzurum": {"temperature": 5, "humidity": 60, "rainfall": 450, "region_type": "highland", "altitude": 1890}
+      },
+      "climate_type": "varied"
+    },
+    "USA": {
+      "cities": {
+        "New York": {"temperature": 13, "humidity": 65, "rainfall": 1200, "region_type": "humid_continental", "altitude": 10},
+        "Los Angeles": {"temperature": 18, "humidity": 50, "rainfall": 380, "region_type": "mediterranean", "altitude": 71},
+        "Chicago": {"temperature": 10, "humidity": 62, "rainfall": 900, "region_type": "humid_continental", "altitude": 176},
+        "Houston": {"temperature": 21, "humidity": 74, "rainfall": 1200, "region_type": "humid_subtropical", "altitude": 12},
+        "Miami": {"temperature": 25, "humidity": 74, "rainfall": 1500, "region_type": "tropical", "altitude": 2},
+        "Phoenix": {"temperature": 24, "humidity": 30, "rainfall": 200, "region_type": "desert", "altitude": 331}
+      },
+      "climate_type": "varied"
+    },
+    "India": {
+      "cities": {
+        "Mumbai": {"temperature": 27, "humidity": 78, "rainfall": 2200, "region_type": "tropical_monsoon", "altitude": 14},
+        "Delhi": {"temperature": 25, "humidity": 55, "rainfall": 600, "region_type": "arid", "altitude": 216},
+        "Bangalore": {"temperature": 24, "humidity": 65, "rainfall": 900, "region_type": "highland", "altitude": 920},
+        "Chennai": {"temperature": 28, "humidity": 75, "rainfall": 1200, "region_type": "coastal", "altitude": 6},
+        "Kolkata": {"temperature": 27, "humidity": 78, "rainfall": 1600, "region_type": "tropical_monsoon", "altitude": 9},
+        "Jaipur": {"temperature": 25, "humidity": 45, "rainfall": 400, "region_type": "arid", "altitude": 431}
+      },
+      "climate_type": "tropical_monsoon"
+    },
+    "Brazil": {
+      "cities": {
+        "Sao Paulo": {"temperature": 21, "humidity": 70, "rainfall": 1400, "region_type": "tropical", "altitude": 760},
+        "Rio de Janeiro": {"temperature": 24, "humidity": 75, "rainfall": 1200, "region_type": "tropical", "altitude": 0},
+        "Brasilia": {"temperature": 22, "humidity": 60, "rainfall": 1500, "region_type": "savanna", "altitude": 1100},
+        "Salvador": {"temperature": 26, "humidity": 80, "rainfall": 2000, "region_type": "tropical", "altitude": 8}
+      },
+      "climate_type": "tropical"
+    },
+    "China": {
+      "cities": {
+        "Beijing": {"temperature": 13, "humidity": 50, "rainfall": 600, "region_type": "humid_continental", "altitude": 44},
+        "Shanghai": {"temperature": 17, "humidity": 70, "rainfall": 1100, "region_type": "humid_subtropical", "altitude": 4},
+        "Guangzhou": {"temperature": 22, "humidity": 77, "rainfall": 1800, "region_type": "humid_subtropical", "altitude": 21},
+        "Shenzhen": {"temperature": 23, "humidity": 75, "rainfall": 1900, "region_type": "humid_subtropical", "altitude": 4},
+        "Chengdu": {"temperature": 16, "humidity": 80, "rainfall": 1000, "region_type": "humid_subtropical", "altitude": 500}
+      },
+      "climate_type": "varied"
+    },
+    "Germany": {
+      "cities": {
+        "Berlin": {"temperature": 10, "humidity": 65, "rainfall": 560, "region_type": "humid_continental", "altitude": 35},
+        "Munich": {"temperature": 9, "humidity": 70, "rainfall": 900, "region_type": "humid_continental", "altitude": 519},
+        "Hamburg": {"temperature": 9, "humidity": 75, "rainfall": 750, "region_type": "maritime", "altitude": 5},
+        "Frankfurt": {"temperature": 11, "humidity": 65, "rainfall": 650, "region_type": "humid_continental", "altitude": 112}
+      },
+      "climate_type": "temperate"
+    },
+    "France": {
+      "cities": {
+        "Paris": {"temperature": 12, "humidity": 65, "rainfall": 650, "region_type": "oceanic", "altitude": 35},
+        "Lyon": {"temperature": 12, "humidity": 70, "rainfall": 800, "region_type": "humid_continental", "altitude": 200},
+        "Marseille": {"temperature": 15, "humidity": 60, "rainfall": 500, "region_type": "mediterranean", "altitude": 0},
+        "Nice": {"temperature": 16, "humidity": 58, "rainfall": 400, "region_type": "mediterranean", "altitude": 10}
+      },
+      "climate_type": "temperate"
+    },
+    "Spain": {
+      "cities": {
+        "Madrid": {"temperature": 15, "humidity": 50, "rainfall": 400, "region_type": "continental", "altitude": 667},
+        "Barcelona": {"temperature": 17, "humidity": 65, "rainfall": 600, "region_type": "mediterranean", "altitude": 12},
+        "Seville": {"temperature": 19, "humidity": 55, "rainfall": 500, "region_type": "mediterranean", "altitude": 7},
+        "Valencia": {"temperature": 18, "humidity": 60, "rainfall": 450, "region_type": "mediterranean", "altitude": 15}
+      },
+      "climate_type": "mediterranean"
+    },
+    "Italy": {
+      "cities": {
+        "Rome": {"temperature": 16, "humidity": 65, "rainfall": 800, "region_type": "mediterranean", "altitude": 20},
+        "Milan": {"temperature": 13, "humidity": 70, "rainfall": 1000, "region_type": "humid_continental", "altitude": 120},
+        "Naples": {"temperature": 16, "humidity": 70, "rainfall": 1000, "region_type": "mediterranean", "altitude": 17},
+        "Palermo": {"temperature": 18, "humidity": 65, "rainfall": 650, "region_type": "mediterranean", "altitude": 14}
+      },
+      "climate_type": "mediterranean"
+    },
+    "Russia": {
+      "cities": {
+        "Moscow": {"temperature": 6, "humidity": 65, "rainfall": 600, "region_type": "humid_continental", "altitude": 156},
+        "Saint Petersburg": {"temperature": 6, "humidity": 75, "rainfall": 650, "region_type": "humid_continental", "altitude": 5},
+        "Sochi": {"temperature": 14, "humidity": 75, "rainfall": 1400, "region_type": "subtropical", "altitude": 10}
+      },
+      "climate_type": "continental"
+    },
+    "Australia": {
+      "cities": {
+        "Sydney": {"temperature": 18, "humidity": 65, "rainfall": 1200, "region_type": "temperate", "altitude": 19},
+        "Melbourne": {"temperature": 16, "humidity": 60, "rainfall": 600, "region_type": "temperate", "altitude": 31},
+        "Brisbane": {"temperature": 22, "humidity": 65, "rainfall": 1100, "region_type": "subtropical", "altitude": 27},
+        "Perth": {"temperature": 19, "humidity": 50, "rainfall": 350, "region_type": "mediterranean", "altitude": 20},
+        "Adelaide": {"temperature": 18, "humidity": 55, "rainfall": 450, "region_type": "mediterranean", "altitude": 50}
+      },
+      "climate_type": "varied"
+    },
+    "Egypt": {
+      "cities": {
+        "Cairo": {"temperature": 22, "humidity": 40, "rainfall": 25, "region_type": "desert", "altitude": 75},
+        "Alexandria": {"temperature": 20, "humidity": 65, "rainfall": 190, "region_type": "coastal", "altitude": 0},
+        "Luxor": {"temperature": 26, "humidity": 30, "rainfall": 10, "region_type": "desert", "altitude": 89}
+      },
+      "climate_type": "desert"
+    },
+    "South Africa": {
+      "cities": {
+        "Johannesburg": {"temperature": 16, "humidity": 55, "rainfall": 700, "region_type": "highland", "altitude": 1753},
+        "Cape Town": {"temperature": 17, "humidity": 60, "rainfall": 400, "region_type": "mediterranean", "altitude": 0},
+        "Durban": {"temperature": 21, "humidity": 75, "rainfall": 1000, "region_type": "subtropical", "altitude": 8}
+      },
+      "climate_type": "varied"
+    },
+    "Japan": {
+      "cities": {
+        "Tokyo": {"temperature": 16, "humidity": 68, "rainfall": 1500, "region_type": "humid_subtropical", "altitude": 40},
+        "Osaka": {"temperature": 17, "humidity": 65, "rainfall": 1300, "region_type": "humid_subtropical", "altitude": 12},
+        "Sapporo": {"temperature": 8, "humidity": 70, "rainfall": 1100, "region_type": "humid_continental", "altitude": 17},
+        "Fukuoka": {"temperature": 17, "humidity": 70, "rainfall": 1500, "region_type": "humid_subtropical", "altitude": 3}
+      },
+      "climate_type": "humid_subtropical"
+    },
+    "Canada": {
+      "cities": {
+        "Toronto": {"temperature": 9, "humidity": 65, "rainfall": 800, "region_type": "humid_continental", "altitude": 76},
+        "Vancouver": {"temperature": 11, "humidity": 70, "rainfall": 1200, "region_type": "oceanic", "altitude": 0},
+        "Montreal": {"temperature": 7, "humidity": 65, "rainfall": 900, "region_type": "humid_continental", "altitude": 30},
+        "Calgary": {"temperature": 5, "humidity": 55, "rainfall": 400, "region_type": "semi_arid", "altitude": 1048}
+      },
+      "climate_type": "varied"
+    }
+  },
+  "soil_types": {
+    "Kumlu": {
+      "description": "Kumlu toprak - İyi drenaj, düşük su tutma kapasitesi",
+      "water_retention": "Düşük",
+      "nutrient_retention": "Düşük",
+      "ph_range": "5.0 - 7.0",
+      "best_crops": ["Ground Nuts", "Millets", "Barley", "Cotton", "Tobacco"],
+      "improvement": "Organik madde eklenmeli, sık sulama yapılmalı"
+    },
+    "Tınlı": {
+      "description": "Tınlı toprak - İdeal denge, yüksek verimlilik",
+      "water_retention": "Orta-Yüksek",
+      "nutrient_retention": "Yüksek",
+      "ph_range": "5.5 - 7.5",
+      "best_crops": ["Wheat", "Maize", "Sugarcane", "Cotton", "Pulses"],
+      "improvement": "Nematik asit uygulanabilir, mükemmel yapı"
+    },
+    "Killi": {
+      "description": "Killi toprak - Yüksek su tutma, fakir drenaj",
+      "water_retention": "Çok Yüksek",
+      "nutrient_retention": "Yüksek",
+      "ph_range": "6.0 - 8.0",
+      "best_crops": ["Rice", "Wheat", "Cotton", "Sugarcane", "Pulses"],
+      "improvement": "Drenaj iyileştirilmeli, organik madde eklenmeli"
+    },
+    "Siyah": {
+      "description": "Siyah toprak (Regur) - Yüksek verimlilik",
+      "water_retention": "Yüksek",
+      "nutrient_retention": "Yüksek",
+      "ph_range": "6.5 - 8.0",
+      "best_crops": ["Cotton", "Wheat", "Sugarcane", "Soybeans", "Maize"],
+      "improvement": "İyi drenaj sağlanmalı, çok sıkıYapı"
+    },
+    "Kırmızı": {
+      "description": "Kırmızı toprak - Demir oksit içeriği yüksek",
+      "water_retention": "Düşük-Orta",
+      "nutrient_retention": "Düşük",
+      "ph_range": "5.5 - 6.5",
+      "best_crops": ["Ground Nuts", "Millets", "Tobacco", "Cotton", "Maize"],
+      "improvement": "Kireç ve organik madde eklenmeli"
+    },
+    "Laterit": {
+      "description": "Laterit toprak - Asidik, düşük verimlilik",
+      "water_retention": "Düşük",
+      "nutrient_retention": "Çok Düşük",
+      "ph_range": "4.5 - 6.0",
+      "best_crops": ["Tea", "Coffee", "Rubber", "Cashew"],
+      "improvement": "Kireç ve gübreleme şart"
+    }
+  },
+  "fertilizers": {
+    "Urea": {"n": 46, "p": 0, "k": 0, "description": "Azotlu gübre, hızlı etki", "best_for": ["Wheat", "Rice", "Maize"]},
+    "DAP": {"n": 18, "p": 46, "k": 0, "description": "Di Amonyum Fosfat, taban gübresi", "best_for": ["Wheat", "Cotton", "Pulses"]},
+    "14-35-14": {"n": 14, "p": 35, "k": 14, "description": "Kompoze gübre", "best_for": ["Cotton", "Sugarcane"]},
+    "17-17-17": {"n": 17, "p": 17, "k": 17, "description": "Dengeli kompoze", "best_for": ["All Crops"]},
+    "20-20": {"n": 20, "p": 20, "k": 0, "description": "Azot-Fosforlu", "best_for": ["Ground Nuts", "Millets"]},
+    "28-28": {"n": 28, "p": 28, "k": 0, "description": "Yüksek NPK", "best_for": ["Maize", "Wheat"]},
+    "10-26-26": {"n": 10, "p": 26, "k": 26, "description": "DAP+Potash karışımı", "best_for": ["Tobacco", "Oil seeds"]}
+  }
+}
+

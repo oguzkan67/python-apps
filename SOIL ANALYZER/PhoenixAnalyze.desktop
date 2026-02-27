@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PhoenixAnalyze
+Comment=Profesyonel Toprak Analiz ve Bitki Oneri Sistemi
+Exec=/home/berkay/Desktop/PhoenixAnalyze/PhoenixAnalyze
+Icon=/home/berkay/Desktop/MY APPS/SOIL ANALYZER/phoenix_icon.png
+Terminal=false
+Categories=Science;Agriculture;Education;
+Keywords=soil;analysis;agriculture;farming;crop;plant;
+StartupNotify=true

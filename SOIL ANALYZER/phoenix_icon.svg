@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="128" cy="128" r="120" fill="#0d47a1"/>
+  <circle cx="128" cy="128" r="110" fill="#1565c0"/>
+  <ellipse cx="128" cy="140" rx="45" ry="55" fill="#1976d2"/>
+  <circle cx="128" cy="75" r="30" fill="#42a5f5"/>
+  <circle cx="140" cy="68" r="8" fill="#ffffff"/>
+  <circle cx="142" cy="66" r="4" fill="#0d47a1"/>
+  <path d="M155 70 L175 75 L158 85 Z" fill="#ff9800"/>
+  <path d="M115 55 Q100 30 120 20 Q130 35 128 50" fill="#00bcd4" stroke="#42a5f5" stroke-width="2"/>
+  <path d="M128 50 Q145 25 160 35 Q150 50 145 55" fill="#00bcd4" stroke="#42a5f5" stroke-width="2"/>
+  <path d="M140 50 Q165 30 175 50 Q155 60 148 55" fill="#00bcd4" stroke="#42a5f5" stroke-width="2"/>
+  <path d="M85 120 Q50 80 70 60 Q90 80 95 110" fill="#0d47a1"/>
+  <path d="M70 60 Q40 40 55 25 Q75 45 80 70" fill="#1565c0"/>
+  <path d="M55 25 Q30 15 45 5 Q65 20 70 45" fill="#1976d2"/>
+  <path d="M171 120 Q206 80 186 60 Q166 80 161 110" fill="#0d47a1"/>
+  <path d="M186 60 Q216 40 201 25 Q181 45 176 70" fill="#1565c0"/>
+  <path d="M201 25 Q226 15 211 5 Q191 20 186 45" fill="#1976d2"/>
+  <path d="M100 190 Q80 210 95 230 Q110 210 108 195" fill="#ff5722" opacity="0.9"/>
+  <path d="M128 200 Q128 230 128 250 Q138 225 138 200" fill="#ff9800" opacity="0.9"/>
+  <path d="M156 190 Q176 210 161 230 Q146 210 148 195" fill="#ff5722" opacity="0.9"/>
+  <path d="M110 185 Q100 205 110 220 Q120 200 118 188" fill="#ff9800" opacity="0.7"/>
+  <path d="M128 195 Q128 215 128 235 Q135 210 133 195" fill="#ffab40" opacity="0.7"/>
+  <path d="M146 185 Q156 205 146 220 Q136 200 138 188" fill="#ff9800" opacity="0.7"/>
+  <ellipse cx="118" cy="130" rx="15" ry="25" fill="#42a5f5" opacity="0.4"/>
+</svg>
